@@ -1,4 +1,4 @@
-# Frame Inspector (Geode mod for GD 2.2081)
+# Frame Inspector (Geode mod for GD 2.2081)a
 
 You load a macro, the bot plays it and measures **how many frames of leeway every click and release has**. Then you can play the level yourself with those numbers shown on every click. Press **F7** to hide or show them.
 
